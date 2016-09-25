@@ -42,3 +42,6 @@ PS:
 ![](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework3/screenshot1.png)
 ![](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework3/screenshot2.png)
 ![](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework3/screenshot3.png)
+
+##5.致谢
+视频转字符动画中图片处理的部分参考了Github上的一些[教程](https://github.com/grzhan/badapple_ascii_anime)
