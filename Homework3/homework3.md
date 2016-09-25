@@ -11,7 +11,8 @@
 对于作业L1，可以通过在字符画前添加空格' '实现字符画位置的变化。
 再通过循环结构使每一帧中的空格数量依次增加或减少即可实现字符画的左右移动。
 通过每一帧之间延时时间长度的变化可实现平移速度的变化。
-见 [L1.py](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework3/L1.py)
+代码见 [L1.py](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework3/L1.py)
+
 ###(2)
 对于作业L2，尝试了直接将视频文件转化为字符动画。
 首先将视频文件通过软件抓帧并依次保存为 320＊240 的bmp图片。
@@ -22,7 +23,7 @@
 存储于同目录下的ascii文件夹中。
 
 见 [bmp_to_ascii.py](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework3/bmp_to_ascii.py)
-
+附 [每一帧txt文件](http://pan.baidu.com/s/1c0zhHs)
 
 再通过循环语句加延时函数依次打开每一帧txt文件，即可再控制台显示转换完成的字符动画
 
@@ -36,6 +37,10 @@ PS:
 也算是完成了要求吧XD
 
 ##4.结果
+###L1
+![](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework3/screenshot4.png)
+![](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework3/screenshot5.png)
+###L2
 ![](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework3/screenshot1.png)
 ![](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework3/screenshot2.png)
 ![](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework3/screenshot3.png)
