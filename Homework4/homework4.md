@@ -33,6 +33,7 @@ for i in range(a.nstep):
 a.store_results()
 b.store_results()
 ```
+这样处理的好处在于 A 与 B 对称, 交换A B 并不会影响模拟结果.
 ###(3)
 最后通过调用pylab中的函数绘图输出结果
 ```python
