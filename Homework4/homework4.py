@@ -49,9 +49,9 @@ Nb = get('Input the initial number of nuclei B (default: 0):\n',0)
 tau_A = get('Input the time constant of nuclei A (default: 1):\n',1)
 tau_B = get('Input the time constant of nuclei B (default: 1):\n',1)
 t = get('Input the time of duration (default: 5)\n',5)
+#模拟衰变过程
 a = nuclei_decay(name = "A", number_of_nuclei = int(Na), time_constant = int(tau_A), time_of_duration = int(t))
 b = nuclei_decay(name = "B", number_of_nuclei = int(Nb), time_constant = int(tau_B), time_of_duration = int(t))
-#模拟衰变过程
 for i in range(a.nstep): 
     a.step_begin()
     b.step_begin()
