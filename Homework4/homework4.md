@@ -48,6 +48,8 @@ legend([p1,p2], ['Nuclei A', 'Nuclei B'])
 savefig('figure.png')
 show()
 ```
+
+[homework4.py](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework4/homework4.py)
 ##3.结果
 控制台截图
 
