@@ -1,4 +1,4 @@
-# Homework 5
+# Homework 6
 ---
 ##1.摘要
 用Euler法模拟了炮弹在    
@@ -44,7 +44,7 @@
 
 ![](http://latex.codecogs.com/gif.latex?v_%7By%2Ci&plus;1%7D%20%3D%20v_%7By%2Ci%7D%20&plus;%20a_%7By%2Ci%7D%20dt)
 
-[完整代码]()
+[完整代码](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework6/homework6.py)
 
 ##4.结果
-
+![](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework6/Cannon%20shell%20trajectory.png)
