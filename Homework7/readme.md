@@ -12,6 +12,8 @@
 
 ##3.正文
 
+[完整代码](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework7/homework7.py)
+
 使用Euler-cromer法计算物理摆运动轨迹：
 
 ![](http://latex.codecogs.com/gif.latex?%5Comega_%7Bi&plus;1%7D%3D%5Comega_i&plus;%5B-%28g/l%29sin%5Ctheta_i-q%5Comega_i&plus;F_Dsin%28%5COmega_Dt_i%29%5D%5CDelta%20t)
