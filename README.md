@@ -10,3 +10,6 @@
 [第六次作业](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework6/readme.md)
 
 [第七次作业](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework7/readme.md)
+
+[第八次作业](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework8/readme.md)
+
