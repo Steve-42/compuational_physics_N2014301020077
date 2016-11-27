@@ -2,7 +2,7 @@
 # Homework 10
 ---
 ##1.摘要
-用VPython模拟了引力的平方反比定律失效(![](http://latex.codecogs.com/gif.latex?%5Cbeta%20%3D%201))时，
+用VPython模拟了引力的平方反比定律失效(![](http://latex.codecogs.com/gif.latex?%5Cbeta%5Cneq%202))时，
 在不同的初速度下行星的运动轨道。
 验证了初始轨道离心率越大时平方反比定律失效后轨道越快地趋向于不稳定。
 
