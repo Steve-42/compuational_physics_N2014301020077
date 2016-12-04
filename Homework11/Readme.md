@@ -39,6 +39,6 @@ The motion of the center of mass in x-y pland
  
  ![](https://raw.githubusercontent.com/ChenXi19/computational_physics_assignments_2013301020092/master/Assignment_12/figure_eliptical_dtheta.png)
 ##Code
-[homework11.py](https://github.com/lipu02/computationalphysics_N2014301020076/blob/master/Homework11/homework11.py)
+[homework11.py](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework11/homework11.py)
 ##Acknowledgment
 The program part is based on the programs of 2013301020092.
