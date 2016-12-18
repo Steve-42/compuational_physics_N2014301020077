@@ -18,7 +18,7 @@ If the string is excited at 25%, there won't exist "peak" at 600Hz, 1200Hz, 1800
 
 ![](https://github.com/guoxiaowhu/computationalphysics_N2013301020099/raw/master/problem6.13%2025%25.png)
 ##code
-[Homework13.py]()
+[Homework13.py](https://github.com/Steve-42/compuational_physics_N2014301020077/blob/master/Homework13/homework13.py)
 ##Acknowledgment
 The program part is based on the programs of 2013301020099.
 
